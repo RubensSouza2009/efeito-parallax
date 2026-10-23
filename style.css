@@ -16,19 +16,19 @@
 }
 
 .img1 {
-	background-image: url("./assets/natureza.jpg");
+	background-image: url("assets/natureza.jpg");
 }
 
 .img2 {
-	background-image: url("./assets/praias.jpg");
+	background-image: url("assets/praias.jpg");
 }
 
 .img3 {
-	background-image: url("./assets/montanhas.jpg");
+	background-image: url("assets/montanhas.jpg");
 }
 
 .img4 {
-	background-image: url("./assets/florestas.jpg");
+	background-image: url("assets/florestas.jpg");
 }
 
 .icon {
